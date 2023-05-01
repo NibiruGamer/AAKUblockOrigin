@@ -3862,3 +3862,18 @@ gaara-fr.com###ga-skin-top
 !sledujserialy.io
 sledujserialy.io##[src="/theme/json/episode.ad.etarget.php?adlink=&salt=ea4361f63a917e00a4a25701ec62af9d1043196bc5a21401d1cf91590ca252f5"]
 sledujserialy.io###warning_top
+! 2023-02-12 https://soferuj.sk
+soferuj.sk##.layout-align-space-between-center.layout-xs-column.layout-row.cookie-consent-bar
+
+! 2023-05-01 https://czech-craft.eu
+||czech-craft.eu/static/uploads/abanners/ss2.png$image
+
+! 2023-05-01 https://minecraftservery.eu
+minecraftservery.eu##.mb-0.is-hidden-mobile.has-text-white.box
+
+! 2023-05-01 https://www.minecraft-list.cz
+||www.minecraft-list.cz/storage/media/33/default.webp$image
+
+! 2023-05-01 https://www.minelist.eu
+www.minelist.eu##.text-center.panel-body
+
