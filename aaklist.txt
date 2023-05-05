@@ -3883,3 +3883,8 @@ minecraftservery.eu##.mb-0.is-hidden-mobile.has-text-white.box
 ! 2023-05-01 https://www.minelist.eu
 www.minelist.eu##.text-center.panel-body
 
+! 2023-05-05 https://www.minecraftserver.sk
+www.minecraftserver.sk##.col-md-12 > p
+
+
+
