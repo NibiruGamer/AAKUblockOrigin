@@ -3886,5 +3886,16 @@ www.minelist.eu##.text-center.panel-body
 ! 2023-05-05 https://www.minecraftserver.sk
 www.minecraftserver.sk##.col-md-12 > p
 
+! 2023-05-05 https://www.bombuj.si
+www.bombuj.si###rekllamacasino2 > div > div > div
+www.bombuj.si###rekllamacasino2 > div
+www.bombuj.si###rekllamacasino2
+www.bombuj.si###playbutton
+www.bombuj.si###zatvorit-rekllamu-popup2
+www.bombuj.si###ad_banner2
+www.bombuj.si###ad_banner3
+
+
+
 
 
