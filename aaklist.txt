@@ -3868,6 +3868,12 @@ soferuj.sk##.layout-align-space-between-center.layout-xs-column.layout-row.cooki
 ! 2023-05-01 https://czech-craft.eu
 ||czech-craft.eu/static/uploads/abanners/ss2.png$image
 
+! 2023-05-05 https://czech-craft.eu
+||czech-craft.eu/static/uploads/abanners/ss1.png$image
+
+! 2023-05-05 https://czech-craft.eu
+||czech-craft.eu/static/uploads/abanners/ss3.png$image
+
 ! 2023-05-01 https://minecraftservery.eu
 minecraftservery.eu##.mb-0.is-hidden-mobile.has-text-white.box
 
