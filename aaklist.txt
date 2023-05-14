@@ -3895,6 +3895,14 @@ www.bombuj.si###zatvorit-rekllamu-popup2
 www.bombuj.si###ad_banner2
 www.bombuj.si###ad_banner3
 
+!2023-05-14 https://serialy.bombuj.si
+serialy.bombuj.si###rekllamacasino2 > div > div > div
+serialy.bombuj.si###rekllamacasino2 > div
+serialy.bombuj.si###rekllamacasino2
+serialy.bombuj.si###playbutton
+serialy.bombuj.si###zatvorit-rekllamu-popup2
+serialy.bombuj.si###ad_banner2
+serialy.bombuj.si###ad_banner3
 
 
 
